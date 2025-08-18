@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Brandon Mwavua</h1
-                                             <p></p><figure><embed src="https://wakatime.com/share/@mwavua/a3211a7d-f16c-43c6-8595-508fef035a9f.svg"></embed></figure></p>
+                            
 
 <h3 align="center">A passionate Backend developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=em-brandon&label=Profile%20views&color=0e75b6&style=flat" alt="em-brandon" /> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=em-brandon" alt="em-brandon" /></a> </p>
 
@@ -14,7 +15,6 @@
 - 💬 Ask me about **Lavarel,React, Node and Sql**
 
 - 📫 How to reach me **brandonmwavua@gmail.com**
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/mwavua_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mwavua_" height="30" width="40" /></a>
