@@ -23,29 +23,10 @@ I design and build **secure, scalable proprietary systems** that power digital f
 ### 🧰 Tech Stack
 
 
+
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,java,redis,mongodb&theme=dark" alt="My tech stack icons"/>
 </p>
-
-
-🆎 Option C — Custom Neon Glow SVGs (I’ll design them manually)
-⚡ Animated neon glow (like your earlier gradient concept)
-🎨 Fully custom colors to match your banner
-⚠️ But: GitHub may not render all animations properly (depends on browser).
-
-So here’s the question:
-Would you like to switch your profile to Option A (Professional Flat), Option B (Gradient Modern), or go for Option C (Custom Animated SVGs) where I design glowing badges to match your banner style?
-
-Once you pick, I’ll rewrite your full README.md with the new badges ready to copy-paste.
-
-
-
-
-
 
 
 
