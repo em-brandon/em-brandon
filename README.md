@@ -1,6 +1,6 @@
-<!-- Banner -->
+<!-- Profile Banner -->
 <p align="center">
-  <img src="./assets/banner.svg" alt="Brandon Emmanuel Mwavua — Banner" width="100%" />
+  <img src="./assets/banner.svg" alt="Brandon Emmanuel Mwavua banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Brandon Emmanuel Mwavua</h1>
@@ -8,55 +8,69 @@
 
 ---
 
+### 🚀 About Me
+
+I'm a **Software Engineer** and **Fintech Innovator** based in **Nairobi, Kenya 🇰🇪**.  
+I design and build **secure, scalable proprietary systems** that power digital finance and technology across Africa.
+
+- 🧠 **Expertise:** Software Development, ICT, Fintech, Secure Systems  
+- 💻 **Languages:** Java, JavaScript (React / Node.js), TypeScript  
+- 🏦 **Focus Areas:** Banking Systems, API Security, Cloud Infrastructure, Redis Optimization  
+- 🔭 Currently exploring **AI in Fintech** & **real-time transaction processing**
+
+---
+
+### 🧰 Tech Stack
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/em-brandon/em-brandon/output/github-contribution-grid-snake-dark.svg" alt="contribution-snake" />
+  <img src="./assets/badge-react.svg" alt="React" height="36" />
+  <img src="./assets/badge-node.svg" alt="Node.js" height="36" />
+  <img src="./assets/badge-java.svg" alt="Java" height="36" />
+  <img src="./assets/badge-redis.svg" alt="Redis" height="36" />
+  <img src="./assets/badge-mongodb.svg" alt="MongoDB" height="36" />
 </p>
 
 ---
 
-### ⚡ About Me
-I'm a futuristic-minded **Software Engineer** and **Fintech Innovator** based in Nairobi, Kenya 🇰🇪.  
-I focus on building **secure, scalable, production-grade systems** with a fintech/banking-first mindset.  
+### 🧩 Featured Projects
 
-- 5+ years in software development & ICT  
-- Specialties: Java, MERN, Redis, secure system architecture, banking integrations  
-- Interests: DevSecOps, cloud-native fintech, low-latency systems
+#### 🚗 MERN Car Management System  
+A full-stack vehicle management system with CRUD, Redis caching, and secure authentication.  
+**Tech:** MongoDB • Express • React • Node.js • Redis  
+→ *[View on GitHub](https://github.com/em-brandon/)*  
 
----
+#### 🧮 Java Swing Scientific Calculator  
+A desktop calculator with FlatLaf UI, keyboard shortcuts, and scientific functions (sin, cos, log).  
+→ *[View on GitHub](https://github.com/em-brandon/)*  
 
-### 🔮 Style: Futuristic • Animated • Bold
-This profile uses SVG banners and animated badges for a neon/glow aesthetic — modern, developer-forward, and bold.
-
----
-
-### 🧰 Tech Stack (select)
-<p align="center">
-  <img src="./assets/badge-react.svg" alt="React badge" height="36"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-</p>
-
----
-
-### 🚀 Featured Projects
-- **MERN Car Management System** — Full CRUD, Redis caching, deployed demo.  
-- **Java Swing Scientific Calculator** — FlatLaf, keyboard support, trig/log functions.  
-- **Redis Favourites API** — Next.js + Redis for fast user favourites, anonymous cookie support.
+#### ❤️ Redis Favourites API  
+Next.js + Redis API for real-time “likes/favourites” with anonymous cookie identification.  
+→ *[View on GitHub](https://github.com/em-brandon/)*  
 
 ---
 
 ### 📊 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=em-brandon&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="github stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=em-brandon&layout=compact&theme=radical&hide_border=true" alt="top languages"/>
-  <img src="https://streak-stats.demolab.com?user=em-brandon&theme=radical&hide_border=true" alt="streak"/>
-</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=em-brandon&show_icons=true&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=em-brandon&layout=compact&theme=radical&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=em-brandon&theme=radical&hide_border=true" height="150" />
+</p>
 
 ---
 
-### 🔗 Connect
+### 🐍 Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/em-brandon/em-brandon/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+</p>
+
+---
+
+### 🌍 Connect With Me
+
 <p align="center">
   <a href="https://github.com/em-brandon" target="_blank">GitHub</a> •
   <a href="#" target="_blank">LinkedIn</a> •
@@ -65,6 +79,7 @@ This profile uses SVG banners and animated badges for a neon/glow aesthetic — 
 
 ---
 
-> “Code is where logic meets creativity. Fintech is where both create real impact.” — Brandon Emmanuel Mwavua
-
----
+<p align="center">
+  <i>“Code is where logic meets creativity. Fintech is where both create real impact.”</i><br/>
+  — Brandon Emmanuel Mwavua
+</p>
