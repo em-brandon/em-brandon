@@ -21,14 +21,32 @@ I design and build **secure, scalable proprietary systems** that power digital f
 ---
 
 ### 🧰 Tech Stack
-
 <p align="center">
-  <img src="./assets/badge-react.svg" alt="React" height="36" />
-  <img src="./assets/badge-node.svg" alt="Node.js" height="36" />
-  <img src="./assets/badge-java.svg" alt="Java" height="36" />
-  <img src="./assets/badge-redis.svg" alt="Redis" height="36" />
-  <img src="./assets/badge-mongodb.svg" alt="MongoDB" height="36" />
+  <img src="https://img.shields.io/badge/React-%2300C7B7.svg?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23F44336.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%2313AA52.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
+
+
+
+🆎 Option C — Custom Neon Glow SVGs (I’ll design them manually)
+⚡ Animated neon glow (like your earlier gradient concept)
+🎨 Fully custom colors to match your banner
+⚠️ But: GitHub may not render all animations properly (depends on browser).
+
+So here’s the question:
+Would you like to switch your profile to Option A (Professional Flat), Option B (Gradient Modern), or go for Option C (Custom Animated SVGs) where I design glowing badges to match your banner style?
+
+Once you pick, I’ll rewrite your full README.md with the new badges ready to copy-paste.
+
+
+
+
+
+
+
 
 ---
 
