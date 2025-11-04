@@ -5,8 +5,9 @@
 
 ###
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00BFFF&center=true&width=600&lines=Versatile+Proprietary+Software+Engineer;Turning+Ideas+into+Real+World+Solutions;AI+Software+Integration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00BFFF&center=true&width=600&lines=Versatile+Proprietary+Software+Engineer;Turning+Ideas+into+Real+World+Solutions;AI+Software+Integration+That+Works+for+You" alt="Typing SVG" />
 </div>
+
 
 
 ---
