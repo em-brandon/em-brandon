@@ -1,127 +1,113 @@
+<!-- 🌊 Header Banner -->
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=122&section=header&reversal=true&text=Brandon%20Mwavua%20&fontSize=51&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&desc=Full%20Stack%20Software%20Engineer%20%7C%20ICT%20Consultant%20&descSize=20&descAlign=50&descAlignY=84&textBg=false&color=gradient"  />
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=122&section=header&reversal=true&text=Brandon%20Mwavua%20&fontSize=51&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&desc=Full%20Stack%20Software%20Engineer%20%7C%20ICT%20Consultant%20&descSize=20&descAlign=50&descAlignY=84&textBg=false&color=gradient"  />
 </div>
 
 ###
 
-<br clear="both">
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Brandon+Emmanuel+Mwavua!;Software+Engineer+%7C+Secure+Systems+%26+Fintech+Solutions;Innovating+in+Banking+and+Cybersecurity" alt="Typing SVG" />
+</h1>
 
-<p align="center"></p>
+---
 
-###
-
+<!-- ✉️ Social Icons -->
 <div align="center">
-  <a href="brandonmwavua@gmail.com" target="_blank">
+  <a href="mailto:brandonmwavua@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/brandonemmanuelmwavua" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
 </div>
 
-###
+---
 
-<br clear="both">
+## 🧩 Languages
 
-<h3 align="left">🛠 Language and tools</h3>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/apachecassandra/1287B1" height="40" alt="apachecassandra logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mui/007FFF" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/threedotjs/000000" height="40" alt="threejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/redux/764ABC" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/prometheus/E6522C" height="40" alt="prometheus logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/sentry/362D59" height="40" alt="sentry logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="40" alt="SQL" />
+  <img src="https://cdn.simpleicons.org/bash/4EAA25" height="40" alt="Bash" />
+  <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="Arduino" />
 </div>
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
+## ⚙️ Tools & Frameworks
 
-###
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
 
-<br clear="both">
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" alt="Next.js" />
+  <img src="https://cdn.simpleicons.org/redux/764ABC" height="40" alt="Redux" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="TailwindCSS" />
+  <img src="https://cdn.simpleicons.org/mui/007FFF" height="40" alt="Material UI" />
+  <img src="https://cdn.simpleicons.org/threedotjs/000000" height="40" alt="Three.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="Prisma" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" />
+  <img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="Vercel" />
+  <img src="https://cdn.simpleicons.org/sentry/362D59" height="40" alt="Sentry" />
+  <img src="https://cdn.simpleicons.org/prometheus/E6522C" height="40" alt="Prometheus" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
+</div>
+
+---
+
+## 📈 My GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=em-brandon&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=6&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=em-brandon&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=6&order=3" height="220" alt="streak graph" />
 </div>
 
-###
+---
 
-<img align="right" height="165" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZ3bXN6cXRlYW5mdmNwNGcwOHg2YjFpaTN6ZjYwMDE1M2l0c2JxNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+## 📊 GitHub Activity
 
-###
+<table align="center" width="100%">
+  <tr>
+    <!-- Left: Animated Coding GIF -->
+    <td align="center" width="40%">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZ3bXN6cXRlYW5mdmNwNGcwOHg2YjFpaTN6ZjYwMDE1M2l0c2JxNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" height="220" alt="coding gif" />
+    </td>
+    <!-- Right: GitHub Activity Graph -->
+    <td align="center" width="60%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=em-brandon&radius=16&bg_color=0d1117&color=38bdf8&line=10b981&point=38bdf8&area=true&hide_border=true" height="220" alt="activity-graph" />
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=em-brandon&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+---
 
-###
+## 🐍 Contribution Graph
 
-<br clear="both">
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="45%">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhtaG9nNWluOTdhZnUxeHZqaXp4cHd6dXNybG9hamE0d2t2c29zaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HOiAe2wA8RftbE59dc/giphy.gif" height="220" alt="coding gif" />
+    </td>
+    <td align="center" width="55%">
+      <img src="https://raw.githubusercontent.com/em-brandon/em-brandon/output/snake.svg" alt="Snake animation" width="100%" />
+    </td>
+  </tr>
+</table>
 
-<img align="left" height="240" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhtaG9nNWluOTdhZnUxeHZqaXp4cHd6dXNybG9hamE0d2t2c29zaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HOiAe2wA8RftbE59dc/giphy.gif"  />
+---
 
-###
-
-<img src="https://raw.githubusercontent.com/em-brandon/em-brandon/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
+<!-- 🌊 Footer Banner -->
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=122&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=122&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
-
