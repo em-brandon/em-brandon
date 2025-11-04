@@ -1,3 +1,15 @@
+.github/workflows
+
+
+snake.yml
+
+
+README.md
+
+Your Readme is Done 🎉🎉🎉
+Star This Project
+Fork on Github
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=122&section=header&reversal=true&text=Brandon%20Mwavua%20&fontSize=51&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&desc=Full%20Stack%20Software%20Engineer%20%7C%20ICT%20Consultant%20&descSize=20&descAlign=50&descAlignY=84&textBg=false&color=gradient"  />
 </div>
@@ -99,9 +111,7 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="165" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhtaG9nNWluOTdhZnUxeHZqaXp4cHd6dXNybG9hamE0d2t2c29zaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif"  />
+<img align="right" height="165" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZ3bXN6cXRlYW5mdmNwNGcwOHg2YjFpaTN6ZjYwMDE1M2l0c2JxNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ###
 
@@ -128,3 +138,40 @@
 </div>
 
 ###
+A white circle with a dark file icon outlined in the center
+Profile Readme Generator
+Developed and maintained by Mauro de Souza
+Github
+Donate
+Share
+Privacy Policy
+Copy File Content
+Level Up Your README
+Anyone can use templates — but when you know what you’re doing, it shows.
+
+👉 Explore resources that will upgrade your skills — and your README. Start now.
+
+
+Boost Your English
+Real devs debug in English.
+
+💰 Get 70% OFF your first trial lesson and start to boost your english with top tutors worldwide on Preply 🚀
+
+👉 Get 70% OFF 👈
+
+Clean Code
+A Handbook of Agile Software Craftsmanship by Uncle Bob.
+
+Get the book
+
+Clean Architecture
+Software Architecture Solutions from Uncle Bob.
+
+Get the book
+
+Explore More Books
+Browse the full list of curated titles to boost your coding skills.
+
+More books
+💡 This panel contains affiliate links. If you find something useful and make a purchase, I may earn a small commission ☕. Thanks for the support ❤
+Profile Readme Generator
