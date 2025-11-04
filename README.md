@@ -56,6 +56,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
+
+
+---
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" />
   <img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="Vercel" />
   <img src="https://cdn.simpleicons.org/sentry/362D59" height="40" alt="Sentry" />
@@ -63,8 +67,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
 </div>
 
----
+</div>
 
+---
 ## 📈 My GitHub Stats
 
 <div align="center">
