@@ -5,7 +5,7 @@
 
 ###
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00BFFF&center=true&width=600&lines=Hi+%F0%9F%91%8B%2C+Leveraging+Computer+Science+and+Information+Technology!;Software+Engineer+%7C+Secure+Systems+%26+Fintech+Solutions;Innovating+in+Banking+and+Cybersecurity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00BFFF&center=true&width=600&lines=Hi+%F0%9F%91%8B%2C+Exploring+CS+and+IT;Software+Engineer+%7C+Secure+Fintech;Innovating+in+Banking+%26+Cybersecurity" alt="Typing SVG" />
 </div>
 
 ---
