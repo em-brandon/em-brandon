@@ -1,15 +1,3 @@
-.github/workflows
-
-
-snake.yml
-
-
-README.md
-
-Your Readme is Done 🎉🎉🎉
-Star This Project
-Fork on Github
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=122&section=header&reversal=true&text=Brandon%20Mwavua%20&fontSize=51&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&desc=Full%20Stack%20Software%20Engineer%20%7C%20ICT%20Consultant%20&descSize=20&descAlign=50&descAlignY=84&textBg=false&color=gradient"  />
 </div>
