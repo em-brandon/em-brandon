@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="165" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhtaG9nNWluOTdhZnUxeHZqaXp4cHd6dXNybG9hamE0d2t2c29zaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif"  />
+</div>
+
+###
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=122&section=header&reversal=false&text=Brandon%20Mwavua%20&fontSize=51&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&desc=Full%20Stack%20Software%20Engineer%20%7C%20ICT%20Consultant%20&descSize=20&descAlign=50&descAlignY=84&textBg=false&theme=cobalt"  />
 </div>
@@ -8,16 +14,14 @@
 
 <p align="center"></p>
 
-<div align="center">
-  <img height="165" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhtaG9nNWluOTdhZnUxeHZqaXp4cHd6dXNybG9hamE0d2t2c29zaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif"  />
-</div>
-
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="40" alt="gmail logo"  />
+  <a href="brandonmwavua@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="40" alt="gmail logo"  />
+  </a>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
 </div>
 
@@ -94,6 +98,8 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=em-brandon&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="220" alt="streak graph"  />
