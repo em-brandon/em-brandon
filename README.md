@@ -97,10 +97,6 @@
 
 ###
 
-<img align="right" height="165" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZ3bXN6cXRlYW5mdmNwNGcwOHg2YjFpaTN6ZjYwMDE1M2l0c2JxNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
-
-###
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=em-brandon&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
