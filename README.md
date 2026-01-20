@@ -105,16 +105,6 @@
 
 <br clear="both">
 
-<img align="left" height="167" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhtaG9nNWluOTdhZnUxeHZqaXp4cHd6dXNybG9hamE0d2t2c29zaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HOiAe2wA8RftbE59dc/giphy.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/em-brandon/em-brandon/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=122&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
