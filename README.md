@@ -26,6 +26,7 @@
 ###
 
 <div align="left">
+  <!-- Tool icons unchanged -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
@@ -90,8 +91,8 @@
 ###
 
 <div align="center">
-  <img width="55%" src="https://wakatime.com/share/@mwavua/d5e97318-6ba7-4092-ae61-72b2b66d75f9.svg" />
-  <img width="55%" src="https://wakatime.com/share/@mwavua/78e514f9-d2ba-48b5-a3b0-f598b6b1f0bb.svg" />
+  <img width="65%" src="https://wakatime.com/share/@mwavua/d5e97318-6ba7-4092-ae61-72b2b66d75f9.svg" />
+  <img width="65%" src="https://wakatime.com/share/@mwavua/78e514f9-d2ba-48b5-a3b0-f598b6b1f0bb.svg" />
 </div>
 
 ###
@@ -99,13 +100,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=em-brandon&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=6&order=3" height="220" alt="streak graph" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=em-brandon&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph" />
+  <img width="45%" src="https://streak-stats.demolab.com?user=em-brandon&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=6&order=3" alt="streak graph" />
+  <img width="45%" src="https://github-readme-activity-graph.vercel.app/graph?username=em-brandon&radius=16&theme=github-dark&area=true&order=5" alt="activity-graph graph" />
 </div>
 
 ###
