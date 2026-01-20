@@ -1,4 +1,5 @@
 <div>
+
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=122&section=header&reversal=true&text=Brandon%20Mwavua%20&fontSize=51&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&desc=Hardware%20and%20SAAS%20Engineer&descSize=20&descAlign=50&descAlignY=84&textBg=false&color=gradient" />
 </div>
 
@@ -11,6 +12,7 @@
 ###
 
 <div align="center">
+  <p>Ready to work? send me an email:</p>
   <a href="mailto:brandonmwavua@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
 
