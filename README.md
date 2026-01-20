@@ -100,8 +100,7 @@
 <br clear="both">
 
 <div align="center">
-  <img width="45%" src="https://streak-stats.demolab.com?user=em-brandon&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=6&order=3" alt="streak graph" />
-  <img width="45%" src="https://github-readme-activity-graph.vercel.app/graph?username=em-brandon&radius=16&theme=github-dark&area=true&order=5" alt="activity-graph graph" />
+  <img width="50%" src="https://streak-stats.demolab.com?user=em-brandon&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=6&order=3" alt="streak graph" />
 </div>
 
 ###
