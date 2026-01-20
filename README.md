@@ -87,7 +87,7 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-<p>click to view text</p>
+<p>*click on charts to view text*</p>
 
 
 ###
