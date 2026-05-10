@@ -72,19 +72,6 @@ Full Stack Developer • Software Engineer • Tech Enthusiast
 
 ---
 
-#  Contact Me
-
-<div align="center">
-
-<a href="mailto:brandonmwavua@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="50" />
-</a>
-
-
-
-</div>
-
----
 
 <div align="center">
   <img
