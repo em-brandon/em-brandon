@@ -64,7 +64,6 @@ Full Stack Developer • Software Engineer • Tech Enthusiast
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=em-brandon&show_icons=true&theme=tokyonight" />
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=em-brandon&theme=tokyonight" />
 
