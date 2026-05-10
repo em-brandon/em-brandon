@@ -1,47 +1,116 @@
-<div>
-
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=122&section=header&reversal=true&text=Brandon%20Mwavua%20&fontSize=51&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&desc=Hardware%20and%20SAAS%20Engineer&descSize=20&descAlign=50&descAlignY=84&textBg=false&color=gradient" />
+<div align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Brandon%20Mwavua&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&color=0:0f2027,50:203a43,100:2c5364"
+    alt="header"
+  />
 </div>
 
-###
 
-<br clear="both">
 
-<p align="center"></p>
+<h3 align="center">
+Full Stack Developer • Software Engineer • Tech Enthusiast
+</h3>
 
-###
+---
 
 <div align="center">
-  <H2>Ready to work? send me an email:</H2>
-  <a href="mailto:brandonmwavua@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+
+[![Email](https://img.shields.io/badge/Email-brandonmwavua%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brandonmwavua@gmail.com)
 
 </div>
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
-<p>*click on charts to view text*</p>
+# 🚀 About Me
 
+- 💻 Full Stack Developer
+- 🌍 Based in Nairobi, Kenya
+- 🔧 Interested in Fintech, Cybersecurity & SaaS Platforms
+- 📚 Currently improving my Java, MERN Stack & Cloud skills
+- ⚡ Passionate about building scalable systems and modern UI/UX
 
-###
-<div align="center">
-  <img width="49.5%" src="https://wakatime.com/share/@mwavua/d5e97318-6ba7-4092-ae61-72b2b66d75f9.svg" />
-  <img width="49.5%" src="https://wakatime.com/share/@mwavua/78e514f9-d2ba-48b5-a3b0-f598b6b1f0bb.svg" />
-</div>
+---
 
-###
-
-<br clear="both">
+# 🛠️ Tech Stack
 
 <div align="center">
-  <img width="50%" src="https://streak-stats.demolab.com?user=em-brandon&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=6&order=3" alt="streak graph" />
+
+<img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,express,mongodb,mysql,python,linux,git,github,docker,firebase,vscode&perline=8" />
+
 </div>
 
-###
+---
 
-<br clear="both">
+# 📊 WakaTime Stats
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=122&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient" />
+<p align="center">
+<i>Click charts to open detailed stats</i>
+</p>
+
+<div align="center">
+  <a href="https://wakatime.com/@mwavua">
+    <img width="49%" src="https://wakatime.com/share/@mwavua/d5e97318-6ba7-4092-ae61-72b2b66d75f9.svg" />
+  </a>
+
+  <a href="https://wakatime.com/@mwavua">
+    <img width="49%" src="https://wakatime.com/share/@mwavua/78e514f9-d2ba-48b5-a3b0-f598b6b1f0bb.svg" />
+  </a>
+</div>
+
+---
+
+# 🔥 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=em-brandon&show_icons=true&theme=tokyonight" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=em-brandon&theme=tokyonight" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=em-brandon&theme=react-dark" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# 📫 Contact Me
+
+<div align="center">
+
+<a href="mailto:brandonmwavua@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+</a>
+
+<a href="https://github.com/em-brandon">
+  <img src="https://skillicons.dev/icons?i=github" height="50" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&animation=twinkling&color=0:0f2027,50:203a43,100:2c5364"
+  />
 </div>
