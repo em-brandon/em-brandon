@@ -22,7 +22,7 @@ Full Stack Developer • Software Engineer • Tech Enthusiast
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 - 💻 Full Stack Developer
 - 🌍 Based in Nairobi, Kenya
@@ -32,7 +32,7 @@ Full Stack Developer • Software Engineer • Tech Enthusiast
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 <div align="center">
 
@@ -42,7 +42,7 @@ Full Stack Developer • Software Engineer • Tech Enthusiast
 
 ---
 
-# 📊 WakaTime Stats
+#  WakaTime Stats
 
 <p align="center">
 <i>Click charts to open detailed stats</i>
@@ -60,7 +60,7 @@ Full Stack Developer • Software Engineer • Tech Enthusiast
 
 ---
 
-# 🔥 GitHub Stats
+#  GitHub Stats
 
 <div align="center">
 
@@ -72,7 +72,7 @@ Full Stack Developer • Software Engineer • Tech Enthusiast
 
 ---
 
-# 📈 Contribution Graph
+#  Contribution Graph
 
 <div align="center">
 
@@ -82,7 +82,7 @@ Full Stack Developer • Software Engineer • Tech Enthusiast
 
 ---
 
-# 🐍 Contribution Snake
+#  Contribution Snake
 
 <div align="center">
 
@@ -92,7 +92,7 @@ Full Stack Developer • Software Engineer • Tech Enthusiast
 
 ---
 
-# 📫 Contact Me
+#  Contact Me
 
 <div align="center">
 
