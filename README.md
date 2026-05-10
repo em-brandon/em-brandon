@@ -72,26 +72,6 @@ Full Stack Developer • Software Engineer • Tech Enthusiast
 
 ---
 
-#  Contribution Graph
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=em-brandon&theme=react-dark" />
-
-</div>
-
----
-
-#  Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
 #  Contact Me
 
 <div align="center">
@@ -100,9 +80,7 @@ Full Stack Developer • Software Engineer • Tech Enthusiast
   <img src="https://skillicons.dev/icons?i=gmail" height="50" />
 </a>
 
-<a href="https://github.com/em-brandon">
-  <img src="https://skillicons.dev/icons?i=github" height="50" />
-</a>
+
 
 </div>
 
