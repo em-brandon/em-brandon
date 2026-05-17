@@ -20,17 +20,6 @@ Full Stack Developer • Software Engineer • Tech Enthusiast
 
 </div>
 
----
-
-#  About Me
-
-- 💻 Full Stack Developer
-- 🌍 Based in Nairobi, Kenya
-- 🔧 Interested in Fintech, Cybersecurity & SaaS Platforms
-- 📚 Currently improving my Java, MERN Stack & Cloud skills
-- ⚡ Passionate about building scalable systems and modern UI/UX
-
----
 
 #  Tech Stack
 
