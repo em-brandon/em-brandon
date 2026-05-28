@@ -25,7 +25,7 @@ Full Stack Developer • Software Engineer • Tech Enthusiast
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,express,mongodb,mysql,python,linux,git,github,docker,firebase,vscode&perline=8" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,react,springboot,mongodb,mysql,python,linux,git,github,docker,firebase,vscode&perline=8" />
 
 </div>
 
