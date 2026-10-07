@@ -1,69 +1,35 @@
-<div align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Brandon%20Mwavua&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&color=0:0f2027,50:203a43,100:2c5364"
-    alt="header"
-  />
-</div>
+## Brandon Mwavua
 
+[![wakatime](https://wakatime.com/badge/user/03c4a920-a4c0-47f1-9d33-f7daeb55336e.svg)](https://wakatime.com/@03c4a920-a4c0-47f1-9d33-f7daeb55336e)
 
+Software engineer building backend systems, web applications and connected hardware.
+I work across the stack — APIs and databases, web frontends, cloud infrastructure,
+and embedded/IoT devices — with a focus on systems that are reliable, observable and
+simple to operate.
 
-<h3 align="center">
-Full Stack Developer • Software Engineer • Tech Enthusiast
-</h3>
+**Focus areas**
+- Backend services and API design — Python, Java, PostgreSQL
+- Web applications — TypeScript
+- Infrastructure and deployment — Docker, Nginx, Cloudflare
+- Embedded and IoT — Raspberry Pi, device-to-cloud pipelines
 
----
+### Tech stack
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-brandonmwavua%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brandonmwavua@gmail.com)
-
-</div>
-
-
-#  Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,js,ts,react,spring_boot,mysql,python,git,github,docker,firebase,vscode&perline=8" />
-
-</div>
-
----
-
-#  WakaTime Stats
-
-<p align="center">
-<i>Click charts to open detailed stats</i>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,ts,docker,nginx,cloudflare,raspberrypi" alt="Tech stack" />
 </p>
 
-<div align="center">
-  <a href="https://wakatime.com/@mwavua">
-    <img width="49%" src="https://wakatime.com/share/@mwavua/d5e97318-6ba7-4092-ae61-72b2b66d75f9.svg" />
+### Activity
+
+<p>
+  <a href="https://github.com/em-brandon">
+    <img src="https://streak-stats.demolab.com/?user=em-brandon&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" width="49%" />
   </a>
-
   <a href="https://wakatime.com/@mwavua">
-    <img width="49%" src="https://wakatime.com/share/@mwavua/78e514f9-d2ba-48b5-a3b0-f598b6b1f0bb.svg" />
+    <img src="https://wakatime.com/share/@mwavua/4e7e58c1-1329-44da-ad61-f83e31da0a51.svg" alt="Languages (all time, WakaTime)" width="49%" />
   </a>
-</div>
+</p>
 
----
+### Contact
 
-#  GitHub Stats
-
-<div align="center">
-
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=em-brandon&theme=tokyonight" />
-
-</div>
-
----
-
-
-<div align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&animation=twinkling&color=0:0f2027,50:203a43,100:2c5364"
-  />
-</div>
+[brandonmwavua@birdboxsystems.co.ke](mailto:brandonmwavua@birdboxsystems.co.ke)
