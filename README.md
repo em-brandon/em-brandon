@@ -15,7 +15,7 @@ that are reliable, observable and simple to operate.
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
 **Focus areas**
 - **Backend &amp; data** — API design in Python and Java on PostgreSQL and Cassandra
@@ -38,13 +38,13 @@ that are reliable, observable and simple to operate.
 </p>
 
 </td>
-<td width="45%" valign="top" align="center">
+<td width="50%" valign="top" align="center">
 
   <a href="https://github.com/em-brandon">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=em-brandon&amp;hide_border=true&amp;background=00000000&amp;stroke=30363d&amp;ring=2dd4bf&amp;fire=2dd4bf&amp;currStreakNum=e6edf3&amp;currStreakLabel=2dd4bf&amp;sideNums=e6edf3&amp;sideLabels=9ba7b4&amp;dates=9ba7b4" />
-      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=em-brandon&amp;hide_border=true&amp;background=00000000&amp;stroke=d0d7de&amp;ring=0f766e&amp;fire=0f766e&amp;currStreakNum=1f2328&amp;currStreakLabel=0f766e&amp;sideNums=1f2328&amp;sideLabels=57606a&amp;dates=57606a" />
-      <img src="https://streak-stats.demolab.com/?user=em-brandon&amp;hide_border=true" alt="GitHub contribution streak" width="80%" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=em-brandon&amp;card_width=330&amp;card_height=170&amp;short_numbers=true&amp;hide_border=true&amp;background=00000000&amp;stroke=30363d&amp;ring=2dd4bf&amp;fire=2dd4bf&amp;currStreakNum=e6edf3&amp;currStreakLabel=2dd4bf&amp;sideNums=e6edf3&amp;sideLabels=9ba7b4&amp;dates=9ba7b4" />
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=em-brandon&amp;card_width=330&amp;card_height=170&amp;short_numbers=true&amp;hide_border=true&amp;background=00000000&amp;stroke=d0d7de&amp;ring=0f766e&amp;fire=0f766e&amp;currStreakNum=1f2328&amp;currStreakLabel=0f766e&amp;sideNums=1f2328&amp;sideLabels=57606a&amp;dates=57606a" />
+      <img src="https://streak-stats.demolab.com/?user=em-brandon&amp;card_width=330&amp;card_height=170&amp;short_numbers=true&amp;hide_border=true" alt="GitHub contribution streak" width="80%" />
     </picture>
   </a>
   <br />
